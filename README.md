@@ -1,1 +1,1 @@
-# Price-prediction-using-machine-laerning
+# Price-prediction-using-machine-learning
